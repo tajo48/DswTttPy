@@ -24,5 +24,10 @@ Program jest napisany w języku Python i korzysta z klas i metod do organizacji 
 4. Pierwszy gracz, który umieści swoje znaki w wyznaczonym układzie, wygrywa grę.
 5. Jeśli wszystkie pola na planszy zostaną zapełnione, a żaden gracz nie wygra, gra kończy się remisem.
 
+## Testy jednostkowe znajdują się w pliku `testyttt.py` w głównym folderze projektu. Aby uruchomić testy, wykonaj następujące kroki:
+
+1. Otwórz terminal.
+2. Uruchom testy, wpisując polecenie `python testyttt.py`
+
 ## Autor
 Ten program został stworzony przez Piotr Świercz. 
