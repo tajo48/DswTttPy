@@ -5,7 +5,7 @@ Ta prosta gra w kółko i krzyżyk została stworzona w Pythonie i jest przeznac
 
 ## Jak działa program?
 
-Program jest napisany w języku Python i korzysta z klas i metod do organizacji logiki gry. Główny plik programu to `tic_tac_toe.py`. Główne elementy programu to:
+Program jest napisany w języku Python i korzysta z klas i metod do organizacji logiki gry. Główny plik programu to `ttt.py`. Główne elementy programu to:
 
 - `TicTacToe`: Klasa reprezentująca grę w kółko i krzyżyk. Zawiera metody do wyświetlania planszy, sprawdzania dostępnych ruchów, wykonywania ruchów graczy, sprawdzania zwycięzcy oraz prowadzenia rozgrywki.
 
